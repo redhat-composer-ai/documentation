@@ -7,11 +7,11 @@ tags:
 
 # Introduction
 
-Red Hat Composer AI is a consulting approach that  accelerates innovation by providing a unified, scalable platform designed to rapidly transform new ideas into impactful AI solutions. Streamline the entire lifecycle of AI development, from concept to deployment, while benefiting from a robust architecture that ensures seamless integration and top-tier security. Our platform empowers your enterprise to harness cutting-edge AI technologies quickly and efficiently, all while maintaining complete control over your data and infrastructure.
+Red Hat Composer AI is a full-stack deployment of resources needed to launch generative AI solutions. It streamlines the entire AI development lifecycle, from concept to deployment, by leveraging the security and reliability of Red Hat OpenShift and Red Hat Openshift AI technologies. This allows enterprises to secure their data and customize their infrastructure while rapidly designing, developing, and releasing innovative generative AI solutions. Composer AI empowers developers to accelerate AI adoption with confidence, knowing their solutions are built on a secure and trusted foundation.
 
 ## Key Goals
 
-* **Centralized AI Platform:** Accelerate AI use case development with an intuitive, secure, and scalable environment
-* **Democratizing AI:** Empower business leaders, analysts, and operations teams with tools for innovation, efficiency, and control
-* **Seamless Integration:** Compatible with open-source models and securely manages proprietary data across multiple databases
-* **Automate & Innovate:** Streamline workflows, automate routine tasks, and focus on what matters most—driving your organization forward.
+* **Democratize AI:** Empower business leaders, analysts, and operations teams with tools for creating generative AI solutions without requiring deep technical knowledge
+* **Streamline AI Management:** Establish a central hub for AI solutions, promoting transparency and efficiency.
+* **Prioritize Data Security:** Ensure all data remains securely within the cluster
+* **Full Stack Deployment:** Provide a comprehensive, full-stack installation with all necessary components.
