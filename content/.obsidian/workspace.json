@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infrastructure/Composer-AI.md",
+                "file": "Infrastructure/Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Composer-AI"
+              "title": "Overview"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infrastructure/Composer-AI.md",
+                "file": "Infrastructure/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Composer-AI"
+              "title": "Backlinks for Overview"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infrastructure/Composer-AI.md",
+                "file": "Infrastructure/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Composer-AI"
+              "title": "Outgoing links from Overview"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infrastructure/Composer-AI.md"
+                "file": "Infrastructure/Overview.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Composer-AI"
+              "title": "Outline of Overview"
             }
           }
         ]
@@ -164,10 +164,10 @@
   },
   "active": "9c9a8dc67e4e2611",
   "lastOpenFiles": [
+    "Infrastructure/Composer-AI.md",
     "assets/infra/Composer AI Architecture.png",
     "assets/infra/01-composer-architecture.png",
     "Infrastructure/Overview.md",
-    "Infrastructure/Cluster-Infrastructure.md",
-    "Infrastructure/Composer-AI.md"
+    "Infrastructure/Cluster-Infrastructure.md"
   ]
 }
