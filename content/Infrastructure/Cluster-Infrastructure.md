@@ -1,5 +1,5 @@
 ---
-title: Infrastructure Overview
+title: Openshift Cluster Infrastructure
 draft: false
 tags:
   - infra

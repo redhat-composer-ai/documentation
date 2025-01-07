@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4406fac2b4e44e6f",
+        "id": "1ba927820b3901c2",
         "type": "tabs",
         "children": [
           {
-            "id": "9c9a8dc67e4e2611",
+            "id": "4f4c8b5d3d371a86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infrastructure/Overview.md",
+                "file": "User Guide/Overview.md",
                 "mode": "source",
                 "source": false
               },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infrastructure/Overview.md",
+                "file": "User Guide/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infrastructure/Overview.md",
+                "file": "User Guide/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infrastructure/Overview.md"
+                "file": "User Guide/Overview.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Overview"
@@ -162,12 +162,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c9a8dc67e4e2611",
+  "active": "4f4c8b5d3d371a86",
   "lastOpenFiles": [
+    "Ingestion/Debug-Guide.md",
+    "Ingestion/Overview copy.md",
+    "Ingestion/Overview.md",
+    "Ingestion/Chatbot-UI.md",
+    "Ingestion",
+    "User Guide/Conductor-API.md",
+    "User Guide/Composer.md",
+    "User Guide/Chatbot-UI copy.md",
+    "User Guide/Chatbot-UI.md",
+    "User Guide/Overview copy.md",
+    "User Guide/Untitled.canvas",
+    "User Guide/Overview.md",
+    "User Guide/Untitled.md",
     "Infrastructure/Composer-AI.md",
+    "Chatbot UI/Overview.md",
+    "Infrastructure/Overview.md",
     "assets/infra/Composer AI Architecture.png",
     "assets/infra/01-composer-architecture.png",
-    "Infrastructure/Overview.md",
     "Infrastructure/Cluster-Infrastructure.md"
   ]
 }

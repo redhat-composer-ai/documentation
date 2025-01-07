@@ -1,5 +1,5 @@
 ---
-title: Infrastructure Overview
+title: Composer AI Infrastructure
 draft: false
 tags:
   - infra
