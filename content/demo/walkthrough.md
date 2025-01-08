@@ -1,5 +1,5 @@
 ---
-title: Demo Environment Setup
+title: Demo Environment Walkthrough
 draft: false
 tags:
   - Demo
