@@ -11,7 +11,7 @@ tags:
 
 Data Ingestion is done through a DataSciencePipeline
 
-More Info TBD.
+![[under-construction.gif]]
 
 ## Validation
 

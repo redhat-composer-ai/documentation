@@ -12,4 +12,6 @@ tags:
 
 # Introduction
 
-Conductor API is the API that is used when interacting wit h
+Conductor API is the API that is used when interacting with
+
+![[under-construction.gif]]

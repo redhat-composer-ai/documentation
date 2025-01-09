@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "User Guide/Overview.md",
+                "file": "demo/Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "Setup"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User Guide/Overview.md",
+                "file": "demo/Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Overview"
+              "title": "Backlinks for Setup"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "User Guide/Overview.md",
+                "file": "demo/Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Overview"
+              "title": "Outgoing links from Setup"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "User Guide/Overview.md"
+                "file": "demo/Setup.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Overview"
+              "title": "Outline of Setup"
             }
           }
         ]
@@ -164,24 +164,41 @@
   },
   "active": "4f4c8b5d3d371a86",
   "lastOpenFiles": [
+    "demo/walkthrough.md",
+    "demo/Setup.md",
     "Ingestion/Debug-Guide.md",
-    "Ingestion/Overview copy.md",
+    "assets/demo/Topology.png",
+    "assets/demo/Failed_LLM.png",
     "Ingestion/Overview.md",
+    "Infrastructure/Overview.md",
+    "Infrastructure/Composer-AI.md",
+    "Infrastructure/Cluster-Infrastructure.md",
+    "assets/demo/Success_LLM.png",
+    "Pasted image 20250109124520.png",
+    "assets/demo/Success_KFP.png",
+    "assets/demo",
+    "index.md",
+    "User Guide/Overview.md",
+    "User Guide/Conductor-API.md",
+    "User Guide/Chatbot-UI.md",
+    "Conductor/Overview.md",
+    "Chatbot UI/Overview.md",
+    "assets/under-construction.gif",
+    "assets/200w.gif.crdownload",
+    "Conductor",
+    "Chatbot UI copy/Overview.md",
+    "Chatbot UI copy",
+    "Infrastructure/Composer-AI copy.md",
+    "demo",
+    "Ingestion/Overview copy.md",
     "Ingestion/Chatbot-UI.md",
     "Ingestion",
-    "User Guide/Conductor-API.md",
     "User Guide/Composer.md",
     "User Guide/Chatbot-UI copy.md",
-    "User Guide/Chatbot-UI.md",
     "User Guide/Overview copy.md",
     "User Guide/Untitled.canvas",
-    "User Guide/Overview.md",
     "User Guide/Untitled.md",
-    "Infrastructure/Composer-AI.md",
-    "Chatbot UI/Overview.md",
-    "Infrastructure/Overview.md",
     "assets/infra/Composer AI Architecture.png",
-    "assets/infra/01-composer-architecture.png",
-    "Infrastructure/Cluster-Infrastructure.md"
+    "assets/infra/01-composer-architecture.png"
   ]
 }

@@ -9,3 +9,5 @@ tags:
 # Introduction
 
 Composer AI is broken down into three main parts
+
+![[under-construction.gif]]
