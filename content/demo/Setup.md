@@ -13,4 +13,4 @@ Composer AI is available as a catalog item for Red Hat employees and partners at
 
 After requesting and provisioning the demo cluster, the environment will take some time to finish setting up in order to make all of the Assistants available.
 
-Please refer to the [Environment Validation Instructions](documentation/demo/walkthrough#environment-validation-instructions) in the Demo Walkthrough to verify the completion of the automated setup.
+Please refer to the [Environment Validation Instructions](demo/walkthrough#environment-validation-instructions) in the Demo Walkthrough to verify the completion of the automated setup.
