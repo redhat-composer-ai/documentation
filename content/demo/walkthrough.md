@@ -28,7 +28,7 @@ All of the components relevant to Composer AI are located in the `composer-ai-ap
 The Cluster Level and Composer Level Gitops used to deploy the application can be accessed through the "waffle" button on the top right.
 
 And the endpoint for the UI can be found on either the `Topology` view or `Networking -> Routes`
-## Setup Instructions
+## Environment Validation Instructions
 
 **Estimated Setup Time:** Approximately 30 minutes
 
