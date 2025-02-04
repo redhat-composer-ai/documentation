@@ -18,9 +18,9 @@ It may be needed to point to a different tag, branch or even repo when developin
 
 Because most of Composer runs on App of Apps or the ApplicationSet pattern it can be difficult to turn of autosync. The following instructions will turn off the top level auto sync for most components.
 
-. Disable auto sync for `Application` `bootstrap` in the main GitOps: `oc patch application bootstrap --type='merge' -p '{"spec": {"template": {"spec": {"syncPolicy": {"automated": {"selfHeal": false}}}}}}' -n openshift-gitops`
-. Disable auto sync for `ApplicationSet` `tenants` on the openshift-gitops namespace: `oc patch applicationset tenants --type='merge' -p '{"spec": {"template": {"spec": {"syncPolicy": {"automated": {"selfHeal": false}}}}}}' -n openshift-gitops`
-. Disable auto sync for `Application` `composer-ai-config` in the Composer AI GitOps: `oc patch application bootstrap --type='merge' -p '{"spec": {"template": {"spec": {"syncPolicy": {"automated": {"selfHeal": false}}}}}}' -n composer-ai-gitops`
+1. Disable auto sync for `Application` `bootstrap` in the main GitOps: `oc patch application bootstrap --type='merge' -p '{"spec": {"template": {"spec": {"syncPolicy": {"automated": {"selfHeal": false}}}}}}' -n openshift-gitops`
+2. Disable auto sync for `ApplicationSet` `tenants` on the openshift-gitops namespace: `oc patch applicationset tenants --type='merge' -p '{"spec": {"template": {"spec": {"syncPolicy": {"automated": {"selfHeal": false}}}}}}' -n openshift-gitops`
+3. Disable auto sync for `Application` `composer-ai-config` in the Composer AI GitOps: `oc patch application bootstrap --type='merge' -p '{"spec": {"template": {"spec": {"syncPolicy": {"automated": {"selfHeal": false}}}}}}' -n composer-ai-gitops`
 
 At this most of the other Composer AI applications should be modifyable without being controlled by a parent Argo App.
 

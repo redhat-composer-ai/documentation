@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "demo/Developer-Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Developer-Guide"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -162,8 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f9c3c2fee39eb64",
+  "active": "4f4c8b5d3d371a86",
   "lastOpenFiles": [
+    "Conductor/Overview.md",
+    "index.md",
     "demo/walkthrough.md",
     "demo/Setup.md",
     "Infrastructure/Cluster-Infrastructure.md",
@@ -179,11 +182,9 @@
     "Pasted image 20250109124520.png",
     "assets/demo/Success_KFP.png",
     "assets/demo",
-    "index.md",
     "User Guide/Overview.md",
     "User Guide/Conductor-API.md",
     "User Guide/Chatbot-UI.md",
-    "Conductor/Overview.md",
     "Chatbot UI/Overview.md",
     "assets/under-construction.gif",
     "assets/200w.gif.crdownload",
