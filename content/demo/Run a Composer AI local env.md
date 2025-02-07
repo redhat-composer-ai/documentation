@@ -103,7 +103,7 @@ Run `mvn clean install` in the quarkus-llm-router directory.
 Run `mvn quarkus:dev -Dquarkus.profile=local` in the quarkus-llm-router directory.
 
 ## Chatbot-UI Install
- In a new terminal, cd into the chatbot-ui directory (from https://github.com/redhat-composer-ai/chatbot-ui)
+ In a new terminal, cd into the chatbot-ui directory (https://github.com/redhat-composer-ai/chatbot-ui)
 
  run `npm install`
  
